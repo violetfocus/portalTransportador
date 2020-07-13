@@ -1,0 +1,48 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "com.tmantman.nativecamera": {
+      "PACKAGE_NAME": "com.portaldotransportador.app"
+    },
+    "cordova-plugin-is-debug": {
+      "PACKAGE_NAME": "com.portaldotransportador.app"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "com.portaldotransportador.app"
+    },
+    "cordova-plugin-android-permissions": {
+      "PACKAGE_NAME": "com.portaldotransportador.app"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "com.portaldotransportador.app"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.portaldotransportador.app"
+    },
+    "cordova-plugin-background-geolocation": {
+      "PACKAGE_NAME": "com.portaldotransportador.app"
+    },
+    "phonegap-plugin-push": {
+      "SENDER_ID": "12345",
+      "PACKAGE_NAME": "com.portaldotransportador.app"
+    },
+    "cordova-plugin-request-location-accuracy": {
+      "PLAY_SERVICES_LOCATION_VERSION": "16.+",
+      "PACKAGE_NAME": "com.portaldotransportador.app"
+    },
+    "cordova-plugin-qr-barcode-scanner": {
+      "ANDROID_SUPPORT_V4_VERSION": "27.+",
+      "PACKAGE_NAME": "com.portaldotransportador.app"
+    },
+    "cordova-gmv-barcode-scanner": {
+      "PACKAGE_NAME": "com.portaldotransportador.app"
+    }
+  },
+  "dependent_plugins": {}
+}

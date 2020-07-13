@@ -1,0 +1,42 @@
+{
+  "_from": "git+https://github.com/mWater/cordova-plugin-wezka-nativecamera.git",
+  "_id": "cordova-plugin-wezka-nativecamera@1.1.0",
+  "_inBundle": false,
+  "_location": "/cordova-plugin-wezka-nativecamera",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/mWater/cordova-plugin-wezka-nativecamera.git",
+    "rawSpec": "https://github.com/mWater/cordova-plugin-wezka-nativecamera.git",
+    "saveSpec": "git+https://github.com/mWater/cordova-plugin-wezka-nativecamera.git",
+    "fetchSpec": "https://github.com/mWater/cordova-plugin-wezka-nativecamera.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/mWater/cordova-plugin-wezka-nativecamera.git#8ae097928f96e91bfc46ac836aab3a24c3c99417",
+  "_spec": "https://github.com/mWater/cordova-plugin-wezka-nativecamera.git",
+  "_where": "C:\\Users\\Pedro\\Documents\\testePhonegap\\Portal do Transportador APP_TESTE2",
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/broncha/cordova-plugin-wezka-nativecamera/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "platforms": [
+      "android"
+    ]
+  },
+  "deprecated": false,
+  "description": "com.wezka.nativecamera ==========================",
+  "homepage": "https://github.com/broncha/cordova-plugin-wezka-nativecamera#readme",
+  "license": "ISC",
+  "name": "cordova-plugin-wezka-nativecamera",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/broncha/cordova-plugin-wezka-nativecamera.git"
+  },
+  "version": "1.1.0"
+}

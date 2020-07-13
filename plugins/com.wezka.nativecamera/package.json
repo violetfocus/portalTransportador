@@ -1,0 +1,66 @@
+{
+  "_from": "cordova-plugin-wezka-nativecamera",
+  "_id": "cordova-plugin-wezka-nativecamera@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha1-j55/hjJgLr/MED8KdncdikWvV0Q=",
+  "_location": "/cordova-plugin-wezka-nativecamera",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cordova-plugin-wezka-nativecamera",
+    "name": "cordova-plugin-wezka-nativecamera",
+    "escapedName": "cordova-plugin-wezka-nativecamera",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-wezka-nativecamera/-/cordova-plugin-wezka-nativecamera-1.0.0.tgz",
+  "_shasum": "8f9e7f8632602ebfcc103f0a76771d8a45af5744",
+  "_spec": "cordova-plugin-wezka-nativecamera",
+  "_where": "C:\\Users\\Pedro\\Documents\\testePhonegap\\Portal do Transportador APP",
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/craftpip/cordova-plugin-wezka-nativecamera/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-camera",
+    "platforms": [
+      "android"
+    ]
+  },
+  "deprecated": false,
+  "description": "com.wezka.nativecamera",
+  "homepage": "https://github.com/craftpip/cordova-plugin-wezka-nativecamera#readme",
+  "keywords": [
+    "cordova",
+    "camera",
+    "ecosystem:cordova",
+    "cordova-firefoxos",
+    "cordova-android",
+    "cordova-amazon-fireos",
+    "cordova-ubuntu",
+    "cordova-ios",
+    "cordova-blackberry10",
+    "cordova-wp7",
+    "cordova-wp8",
+    "cordova-windows8",
+    "cordova-browser",
+    "cordova-windows"
+  ],
+  "license": "ISC",
+  "name": "cordova-plugin-wezka-nativecamera",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/craftpip/cordova-plugin-wezka-nativecamera.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
